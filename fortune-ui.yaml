@@ -1,6 +1,6 @@
 fortuneService: 
   scheme: http
-  baseAddress: fhhhortune-service1.apps.pcfone.io/api/fortunes/
+  baseAddress: fortune-service1.apps.pcfone.io/api/fortunes/
   allFortunesPath: all
   randomFortunePath: random
   
