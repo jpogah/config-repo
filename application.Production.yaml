@@ -1,12 +1,1 @@
-Logging:
-  IncludeScopes: true
-  LogLevel: 
-    Default: Warning
-    Debug: 
-      LogLevel: 
-        Default: Warning
-    Console: 
-      LogLevel: 
-        Default": Warning
-  
 
