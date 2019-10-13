@@ -6,5 +6,6 @@ eureka:
   instance:
     port: 5001
     appName: fortuneservice
+    hostname: localhost
     
     
