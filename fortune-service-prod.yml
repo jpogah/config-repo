@@ -5,3 +5,4 @@ eureka:
     shouldRegisterWithEureka: true
   instance:
     appName: fortuneservice
+    preferIpAddress: true,
