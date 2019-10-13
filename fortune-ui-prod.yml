@@ -4,3 +4,8 @@ fortuneService:
   allFortunesPath: all
   randomFortunePath: random
   
+eureka:
+  client:
+    shouldFetchRegistry: true
+    shouldRegisterWithEureka: false
+  

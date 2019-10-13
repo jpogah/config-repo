@@ -1,0 +1,6 @@
+eureka:
+  client:
+    shouldFetchRegistry: false
+    shouldRegisterWithEureka: true
+  instance:
+    appName: fortuneservice

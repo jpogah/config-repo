@@ -1,1 +1,3 @@
-
+eureka:
+  client:
+    serviceUrl: https://eureka-144f543a-e212-4b1b-98cf-0c969606f12d.apps.pcfone.io
