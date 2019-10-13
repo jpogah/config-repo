@@ -6,7 +6,6 @@ fortuneService:
   
 eureka:
   client:
-    serviceUrl: http://localhost:8761/eureka/
     shouldFetchRegistry: true
     shouldRegisterWithEureka: false
   
