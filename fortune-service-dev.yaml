@@ -10,6 +10,4 @@ eureka:
 
 sqlServer:
   credentials:
-    connectionString: "Server=(localdb)\\mssqllocaldb;database=fortuneService;Trusted_Connection=True;"
-    
-    
+    connectionString: "Server=localhost;Database=fortuneService;User Id=SA;Password=St33lt03R0cks"
