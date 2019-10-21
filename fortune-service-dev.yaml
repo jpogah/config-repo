@@ -11,3 +11,8 @@ eureka:
 sqlServer:
   credentials:
     connectionString: "Server=localhost;Database=fortuneService;User Id=SA;Password=St33lt03R0cks"
+
+redis:
+  client:
+    host: 127.0.0.1
+    port: 6379
